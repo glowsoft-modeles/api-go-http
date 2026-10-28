@@ -1,0 +1,7 @@
+{
+  "id": "api-go-http",
+  "nom": "API Go",
+  "cadriciel": "go",
+  "categorie": "api",
+  "variables": []
+}
